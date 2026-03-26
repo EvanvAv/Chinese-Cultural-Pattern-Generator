@@ -1,0 +1,1 @@
+https://huggingface.co/latentcat/latentcat-models/blob/main/Model_SCMix/SCMix.ckpt
